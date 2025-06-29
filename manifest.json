@@ -1,0 +1,10 @@
+{
+    "name":"Email Scraper",
+    "description": "Scrape Mail Ids from any web page",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab","scripting"]
+}
